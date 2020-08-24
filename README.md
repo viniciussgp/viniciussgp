@@ -21,7 +21,7 @@ Olá, me chamo Vinícius Alves.
 :computer: &nbsp; Focado nas melhores tecnologias do mercado: Javascript, TypeScript, Node.js, ReactJS e React Native.  <br/>
 :bike: &nbsp; Ciclista nas horas vagas. <br/>
 
-*O aprendizado é contínuo e o próximo nível nunca será o último*
+*O aprendizado é contínuo e o próximo nível nunca será o último* &nbsp; :rocket:
 
 ----
 
