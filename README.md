@@ -16,10 +16,10 @@
 
 Olá, me chamo Vinícius Alves.
 
-👶🏻  Tenho 22 anos e desenvolvo desde os 15. <br/>
-:heart:  Apaixonado pela área de desenvolvimento e sempre procurando novos desafios. <br/>
-:computer:  Focado nas melhores tecnologias do mercado: Javascript, TypeScript, Node.js, ReactJS e React Native.  <br/>
-:bike:  Ciclista nas horas vagas. <br/>
+👶🏻 &nbsp; Tenho 22 anos e desenvolvo desde os 15. <br/>
+:heart: &nbsp; Apaixonado pela área de desenvolvimento e sempre procurando novos desafios. <br/>
+:computer: &nbsp; Focado nas melhores tecnologias do mercado: Javascript, TypeScript, Node.js, ReactJS e React Native.  <br/>
+:bike: &nbsp; Ciclista nas horas vagas. <br/>
 
 ----
 
